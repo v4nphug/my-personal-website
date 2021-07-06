@@ -25,27 +25,27 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-06-15"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Programming for Everybody (Getting Started with Python)
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.futurelearn.com/
   date_end: ""
   date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  description: 
   organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  organization_url: https://www.futurelearn.com/
+  title: Entrepreneurship: From Business Idea to Action
+  url: ""
+- certificate_url: https://www.theforage.com/dashboard?ref=eXvcqvu5SaWs4rcP9
+  date_end: ""
+  date_start: "2021-05-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Development Beyond Learning (DBL)
+  organization_url: https://www.theforage.com/dashboard?ref=eXvcqvu5SaWs4rcP9
+  title: Virtual Experience Program Participant
   url: ""
 
 design:
